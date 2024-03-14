@@ -1,0 +1,16 @@
+﻿  Source.cpp
+D:\Навчальна практика\ДРУГЕ ПІВРІЧЧЯ\Шаблони класів\Source.cpp(108,23): warning C4018: '<': signed/unsigned mismatch
+D:\Навчальна практика\ДРУГЕ ПІВРІЧЧЯ\Шаблони класів\Source.cpp(114,23): warning C4018: '<': signed/unsigned mismatch
+D:\Навчальна практика\ДРУГЕ ПІВРІЧЧЯ\Шаблони класів\Source.cpp(31,34): warning C4018: '<': signed/unsigned mismatch
+D:\Навчальна практика\ДРУГЕ ПІВРІЧЧЯ\Шаблони класів\Source.cpp(27): message : while compiling class template member function 'void Steak<int>::push(T)'
+          with
+          [
+              T=int
+          ]
+D:\Навчальна практика\ДРУГЕ ПІВРІЧЧЯ\Шаблони класів\Source.cpp(136): message : see reference to function template instantiation 'void Steak<int>::push(T)' being compiled
+          with
+          [
+              T=int
+          ]
+D:\Навчальна практика\ДРУГЕ ПІВРІЧЧЯ\Шаблони класів\Source.cpp(133): message : see reference to class template instantiation 'Steak<int>' being compiled
+  Шаблони класів.vcxproj -> D:\Навчальна практика\ДРУГЕ ПІВРІЧЧЯ\Шаблони класів\Debug\Шаблони класів.exe

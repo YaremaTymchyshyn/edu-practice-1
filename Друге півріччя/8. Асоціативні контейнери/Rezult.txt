@@ -1,0 +1,8 @@
++380730862519
+ Street 7: 3
+ Street 9: 1
+ Street 95: 1
+ Street 36: 2
+ Street 23: 2
+ Street 228: 1
+Surname: Gorbal; Name: Yuriy; Address:  Street 7
