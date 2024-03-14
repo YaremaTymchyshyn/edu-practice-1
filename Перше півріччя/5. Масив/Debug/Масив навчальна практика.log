@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\Visual projects\Масив навчальна практика\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Масив навчальна практика.vcxproj -> D:\Visual projects\Масив навчальна практика\Debug\Масив навчальна практика.exe

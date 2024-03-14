@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Visual projects\Нескінченна сума\Source.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Visual projects\Нескінченна сума\Source.cpp(17,50): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+  Нескінченна сума.vcxproj -> D:\Visual projects\Нескінченна сума\Debug\Нескінченна сума.exe

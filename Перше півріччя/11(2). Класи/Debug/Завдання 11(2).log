@@ -1,0 +1,10 @@
+﻿  Source.cpp
+D:\Навчальна практика 1\Завдання 11(2)\Source.cpp(90,30): warning C4018: '<': signed/unsigned mismatch
+D:\Навчальна практика 1\Завдання 11(2)\Source.cpp(92,34): warning C4018: '<': signed/unsigned mismatch
+D:\Навчальна практика 1\Завдання 11(2)\Source.cpp(101,30): warning C4018: '<': signed/unsigned mismatch
+D:\Навчальна практика 1\Завдання 11(2)\Source.cpp(103,34): warning C4018: '<': signed/unsigned mismatch
+D:\Навчальна практика 1\Завдання 11(2)\Source.cpp(112,30): warning C4018: '<': signed/unsigned mismatch
+D:\Навчальна практика 1\Завдання 11(2)\Source.cpp(114,34): warning C4018: '<': signed/unsigned mismatch
+D:\Навчальна практика 1\Завдання 11(2)\Source.cpp(129,26): warning C4018: '<': signed/unsigned mismatch
+D:\Навчальна практика 1\Завдання 11(2)\Source.cpp(83): warning C4715: 'read_file<Faculty>': not all control paths return a value
+  Завдання 11(2).vcxproj -> D:\Навчальна практика 1\Завдання 11(2)\Debug\Завдання 11(2).exe
